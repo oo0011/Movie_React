@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+.movie_Head {
+  color: brown;
+  margin: 20px;
+  margin-top: 40px;
+  text-align: center;
+  font-size: 50px;
+}
+
+.Loading_title {
+  color: brown;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 100px;
+}
+
+.Movie_Title {
+  margin-top: 5px;
+  color: goldenrod;
+}

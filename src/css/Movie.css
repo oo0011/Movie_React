@@ -1,0 +1,31 @@
+.movie_Box {
+  display: inline-block;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 33px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.Movie_Img {
+  border: 2px solid darkgrey;
+  border-radius: 10px;
+}
+
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.button {
+  height: 40px;
+  width: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background-color: darkgrey;
+  border: 0px;
+  border-radius: 10px;
+  transform: translate(-50%, -50%);
+  /* .button에 대한 스타일 */
+}
